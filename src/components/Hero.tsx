@@ -42,7 +42,7 @@ export default function Hero() {
         >
           I migliori integratori,
           <br />
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-petrol-600 via-petrol-500 to-blue-600">al prezzo giusto.</span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-petrol-600 via-petrol-500 to-blue-600">al giusto prezzo.</span>
         </h1>
 
         <p
